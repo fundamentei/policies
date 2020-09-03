@@ -1,6 +1,6 @@
 ## `Termos de Serviço`
 
-O Fundamentei, inscrito no CNPJ sob nº 35.804.692/0001-05, com sede na Rua Coronel José Mendes, nº 184, bairro Santa Rita, São João Nepomuceno/MG, CEP 36.680-000, estabelece o presente Termos de Serviço para seus usuários, conforme condições e descrições abaixo:
+O Fundamentei ("Fundamentei Serviços de Informação LTDA"), inscrito no CNPJ sob nº 35.804.692/0001-05, com sede na Rua Coronel José Mendes, nº 184, bairro Santa Rita, São João Nepomuceno/Minas Gerais - MG, CEP 36.680-000, estabelece o presente Termos de Serviço para seus usuários, conforme condições e descrições abaixo:
 
 - O Fundamentei oferece a seus usuários, principalmente, serviços de informações com relação aos ativos listados na B3 - Brasil Bolsa Balcão S.A., The Nasdaq Stock Market e The New York Stock Exchange, não se restringindo unicamente a esta finalidade. Assim, por meio deste Termo, os usuários concordam com as regras e as condições impostas para o uso dos serviços, na forma estabelecida neste Termo e demais documentos disponíveis no website e/ou seus produtos.
 
