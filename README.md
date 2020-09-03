@@ -4,4 +4,4 @@ No Fundamentei, acreditamos que devemos ser transparentes com relação aos noss
 
 Eventualmente, nossos termos e políticas poderão ser alterados, refletindo a realidade do momento. Disponibilizamos este repositório para que fique registrado quaisquer alterações feitas, visando preservar o histórico das mesmas.
 
-> Para visualizar o histórico de alterações, visite os [Termos de Serviço]() e [Política de Privacidade]().
+> Para visualizar o histórico de alterações, visite os [Termos de Serviço](https://github.com/fundamentei/policies/blob/master/terms-of-service.md) e [Política de Privacidade]().
