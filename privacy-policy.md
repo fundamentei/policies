@@ -1,6 +1,6 @@
 ## `Política de Privacidade`
 
-Essa Política de Privacidade foi elaborada para enfatizar o compromisso do Fundamentei com a transparência, a segurança e a privacidade na coleta de dados e de informações dos usuários. Ela descreve como coletamos e tratamos dados quando você trafega em nossos websites ou qualquer um de nossos produtos, torna-se nosso cliente, usa nossos serviços ou entra em contato com o Fundamentei por email ou através de outros meios de comunicação disponíveis.
+Essa Política de Privacidade foi elaborada para enfatizar o compromisso do Fundamentei com a transparência, a segurança e a privacidade na coleta de dados e de informações dos usuários. Ela descreve como coletamos e tratamos dados quando você trafega em nossos websites ou usa qualquer um de nossos produtos/serviços, torna-se nosso cliente ou entra em contato com o Fundamentei por email ou através de outros meios de comunicação disponíveis.
 
 Este documento foi redigido de forma simples e acessível a todos, de modo que seja permitida a compreensão acerca da coleta, retificação, exclusão e tratamento dos dados e das informações fornecidas pelo usuário, a fim de garantir uma experiência segura e agradável ao se utilizar dos nossos serviços.
 
