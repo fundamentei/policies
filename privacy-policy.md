@@ -68,12 +68,13 @@ Visando uma melhor compreensão do usuário, a presente **Política de Privacida
 
 - O Fundamentei pode compartilhar os dados e as informações dos usuários junto a autoridades e órgãos reguladores, principalmente em caso de cumprimento de ordem judiciais. Igualmente, pode haver compartilhamento de dados quando expressamente solicitado pelo usuário;
 
+- Em respeito às normas que regulam a matéria em âmbito nacional e internacional, o Fundamentei busca entabular parcerias com empresas/plataformas idôneas que se norteiam pelos mesmos princípios, priorizando a segurança dos dados e das informações dos usuários;
+
 - Cumprindo o objetivo de transparência, segue abaixo lista de empresas parceiros que o Fundamentei se resguarda no direito de realizar o compartilhamento de dados: https://github.com/fundamentei/policies/blob/master/third-parties.md
 
 - Quando efetuado, o compartilhamento dos dados dos usuários sempre se dará na forma e limites previstos nas legislações que regulamentam a matéria, de modo a garantir a privacidade das informações. O Fundamentei não aluga, vende ou transfere os dados pessoais dos usuários a qualquer pessoa física ou jurídica, exceto nos casos mencionados acima;
 
 - Observando as legislações brasileiras e estrangeiras, é assegurado ao Fundamentei a coleta e compartilhamento de informações e de dados dos usuários internacionalmente, desde que se trate de empresas estrangeiras parceiras na forma exposta acima.
-
 
 ### Quais são os meus direitos com relação aos dados coletados?
 
@@ -105,7 +106,7 @@ Os dados pessoas dos usuários e visitantes serão armazenados em período sufic
 
 - Caso deseje efetuar o cadastro, o usuário estará expressamente consentindo com a coleta dos dados necessários para os fins previstos neste documento e consecução dos serviços prestados pelo Fundamentei, também se responsabilizando pela veracidade, pela legitimidade e pela necessidade de atualização dos dados fornecidos;
 
-- O usuário poderá retirar seu consentimento quando bem entender, bastando enviar e-mail para contato@fundamentei.com.br com sua solicitação. Ao retirar o consentimento, o usuário estará automaticamente sujeito à impossibilidade de acessar determinadas funcionalidades do website quando o consentimento for necessário para suas realizações.
+- **O usuário poderá retirar seu consentimento quando bem entender**, bastando enviar e-mail para contato@fundamentei.com.br com sua solicitação. Ao retirar o consentimento, o usuário estará automaticamente sujeito à impossibilidade de acessar determinadas funcionalidades do website quando o consentimento for necessário para suas realizações.
 
 ### Mudanças e alterações na Política de Privacidade
 

@@ -37,6 +37,8 @@ O Fundamentei ("Fundamentei Serviços de Informação LTDA"), inscrito no CNPJ s
 
 - Caso o usuário reitere sua conduta de publicar comentários ofensivos, desrespeitosos, fraudulentos, com caráter publicitário ou sob qualquer outra forma indevida e em nítido descompasso com a legislação vigente e as normas do Fundamentei, ele poderá ter sua permissão de comentar cancelada.
 
+- Ao utilizar os serviços do Fundamentei, o usuário concorda e consente com a forma pela qual o Fundamentei trata os dados fornecidos, consentindo ainda com a possibilidade de compartilhamento dos dados com terceiros;
+
 - Por meio deste Termos de Serviço, o usuário reconhece que o Fundamentei e seus parceiros não possuem responsabilidade de qualquer natureza com relação aos fatos e situações explicitados neste documento e na Política de Privacidade.
 
 - O Fundamentei se resguarda no direito de, a qualquer tempo e sem aviso prévio, modificar estes Termos de Serviço a fim de acordo com sua vontade, sempre buscando ficar alinhado às normas de Direito nacional e internacional que regulam a matéria. Ainda, as modificações que vierem a ocorrer terão vigência imediata a partir da divulgação no website e/ou outras plataformas. Portanto, o usuário fica desde já advertido que deve acessar frequentemente este documento a fim de estar ciente das possíveis modificações.
