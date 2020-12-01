@@ -10,5 +10,6 @@ Eventualmente, nossos termos e políticas poderão ser alterados, refletindo a r
 - [Política de Privacidade](privacy-policy.md)
 - [Pagamentos e Reembolsos](payments-and-refunds.md)
 - [Serviços de terceiros](third-parties.md)
+- [FAQ LGPD](lgpd-faq.md)
 
 > Para visualizar o histórico de alterações, visite individualmente cada documento.
